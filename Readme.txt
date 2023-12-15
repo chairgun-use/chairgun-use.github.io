@@ -1,6 +1,3 @@
-# chairgun-use
- ChairGun-USE
-
 
 ChairGun Pro - User Supported Edition
 -------------------------------------
