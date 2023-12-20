@@ -1,0 +1,237 @@
+body 
+{
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  font-size: small;
+  margin: 0px;
+}
+
+#header
+{
+  background-color: white;
+  border-color: #000000;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+
+.content
+{
+  margin: 10px 30px 10px 30px;
+  padding-top: 120px;
+  padding-bottom: 5px;
+  width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#w3cvalidtor
+{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+h1, h2 
+{
+  text-align: center;
+  color: #8B4513;
+}
+
+h1
+{
+  font-size: 1.6em;
+  padding: 5px 0px 5px 0px;
+}
+
+h2
+{
+  font-size: 1.25em;
+  padding: 5px 0px 5px 0px;
+}
+
+p
+{
+  line-height: 1.25em;
+  padding-bottom: .05em;
+  text-align: justify;
+}
+
+
+hr
+{
+  color: #8B4513;
+  height: 1px;
+  border-style: solid;
+}
+
+table
+{
+  border-color: #F5DEB3;
+}
+
+td
+{
+  border-color: #F5DEB3;
+}
+
+tr
+{
+  border-color: #F5DEB3;
+}
+
+
+
+table.noborder
+{
+  border-width: 0px;
+  width: 100%;
+}
+
+td.noborder
+{
+  border-width: 0px;
+}
+
+tr.noborder
+{
+  border-width: 0px;
+}
+
+
+
+.width122
+{
+  width: 122px;
+}
+
+
+.alignleft
+{
+  text-align: left;
+}
+
+.aligncenter
+{
+  text-align: center;
+}
+
+.alignright
+{
+  text-align: right;
+}
+
+
+.valigntop
+{
+  vertical-align: top;
+}
+
+.valignmiddle
+{
+  vertical-align: middle;
+}
+
+.valignbottom
+{
+  vertical-align: bottom;
+}
+
+
+a
+{
+    font-weight : bold;
+	color: #330000;
+    text-decoration: none;
+}
+
+a:visited {
+	color: #8B4513;
+    text-decoration: none;
+}
+
+a:hover
+{
+    font-weight : bold;
+	color: #A52A2A;
+    text-decoration: none;
+}
+
+a.nav
+{
+    font-size: 10px;
+    font-weight : bold;
+	color: #000000;
+    text-decoration: none;
+    padding: 0px 4px 0px 4px;
+    margin: 2px;
+}
+
+a.nav:visited {
+	color: #000000;
+    text-decoration: none;
+}
+
+a.nav:hover
+{
+    font-size: 10px;
+    font-weight : bold;
+	color: #A52A2A;
+    text-decoration: none;
+}
+
+span.nav
+{
+    font-size: 10px;
+    font-weight : bold;
+	color: #000000;
+    text-decoration: none;
+	padding: 0px;
+}
+
+table.nav
+{
+  border-color: #000000;
+  margin: 0px;
+  width: 100%;
+}
+
+img.nav
+{
+  border: 0px;
+}
+
+td.nav
+{
+  border-color: black;
+  border-width: 1px 0px 1px 0px;
+  border-style: solid;
+  background-image: url(../images/SharedImages/TitleBackground.gif);
+  background-repeat: repeat-x; 
+  height: 20px;
+  vertical-align: middle;
+  margin: 2px 0px 6px 0px;
+}
+
+
+
+a.nav1
+{
+  font-weight : bold;
+  color: #8B4513;
+  text-decoration: none;
+  padding: 0px 4px 0px 4px;
+  margin: 2px;
+}
+
+a.nav1:visited {
+  color: #8B4513;
+  text-decoration: none;
+}
+
+a.nav1:hover
+{
+  font-weight : bold;
+  color: #A52A2A;
+  text-decoration: none;
+}
