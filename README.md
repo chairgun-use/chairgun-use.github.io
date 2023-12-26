@@ -21,5 +21,9 @@ chairgun.use@hotmail.com
 
 ---
 
-News: We are in the early stages of preparing to release a new version of ChairGun Pro. We do not have any public downloads available at this time. Please check back later.
+News: We are happy to announce the Initial Release ChairGun USE. If you already have the Original Developer’s edition of ChairGun running on your system, this is not likely to help you very much, other than to keep you informed of any updates to the program. It is essentially their final release, with new graphics and contact information; and it has also been extended to run on Linux as well.
+
+We may at some point extend the program to allow the users to add their own scopes and reticles, regardless of brand, and to share the information with others; but that would be a lot of work, and it is not likely to be accomplished any time soon. If you would like to see that happen, please email the ChairGun USE developer at the above address to give him an idea of how much interest there is in that.
+
+This is primarily intended for those who are unable to get the Original Developer’s edition of ChairGun to run on their devices.
 
