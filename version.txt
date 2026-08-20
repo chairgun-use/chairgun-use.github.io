@@ -1,1 +1,1 @@
-439;2023/12/26;ChairGun.USE Initial Release.
+440;2026/08/19;ChairGun.USE --Highly Recommended-- Bug Fix.
