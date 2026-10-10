@@ -50,8 +50,44 @@
 
   <h1>Versions</h1> 
 
-    <p>The <b>Current Version</b> of ChairGun USE is: <b>4.4.0</b> &mdash; This is Primarily a
-    <b>Bug Fix</b>, with some other internal modifications.</p>
+    <p>The <b>Current Version</b> of ChairGun USE is: <b>4.4.1 &mdash; Major Code Cleanup and Some
+    Enhancements.</b></p>
+
+    <p>I ran the project through a <b>static code analyzer</b>, and found another infinite loop and
+    a myriad of other problems and potential problems. So I've <b>combed</b> through the code
+    <b>numerous times</b>, fixing as many of the problems in it as I reasonably could.</p>
+
+    <p>Most of these were left over from the Original Developer, though some were likely caused in
+    my decompilation work. Among the <b>more visible</b> of the fixes:</p>
+
+    <p>Fixed the <b>Reticle dialog</b> that I seem to have broken in version 4.4.0. This is
+    important if you wish to easily see what your selected reticle looks like.</p>
+
+    <p>Fixed many problems with the <b>Pellets dialog</b> that were present in the Original
+    Developer's final release. I also added the Pellets Database <b>file name</b> above the pellets
+    table so you can easily see what database file you are working with.</p>
+
+    <p><b>Note:</b> If you choose to load an <b>Alternative Pellets Database</b> from a location
+    other than the <i>ChairGun4/Pel</i> directory, ChairGun-USE will <b>copy</b> the database you
+    have selected to the <i>ChairGun4/Pel</i> directory with the same file name, and will
+    <b>save</b> any updates that you make to it &mdash; <b>not</b> to the original database file
+    you selected.</p>
+
+    <p>Also, ChairGun-USE will <b>remember</b> your alternative database and load it from then on
+    each time you start the program, until you load a different one.</p>
+
+    <p>Fixed several problems in the <b>Scopes dialog</b> left over from the Original Developer's
+    final release. I also <b>combined</b> the <b>Current Scopes</b> and <b>Discontinued Scopes</b>
+    into <b>one dialog</b>, and removed the latter. So now all of the scopes are in one dialog.
+    It's much <b>cleaner</b> and <b>simpler</b>.</p>
+
+    <p>I have <b>fixed all of the bugs</b> that I know of; so if you find any, feel free to bring
+    them to my attention.</p>
+
+  <hr /> 
+
+    <p>4.4.0 &mdash; This is Primarily a <b>Bug Fix</b>, with some other internal
+    modifications.</p>
 
     <p>The <b>Install Process</b> has also been <b>Greatly Simplified</b>, making it <b>much
     easier</b> to install than the initial release of ChairGun-USE.</p>

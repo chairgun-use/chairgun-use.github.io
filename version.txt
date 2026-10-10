@@ -1,1 +1,1 @@
-440;2026/08/19;ChairGun.USE --Highly Recommended-- Bug Fix.
+441;2026/10/10;ChairGun.USE - Major Code Cleanup and Some Enhancements.
